@@ -1,26 +1,8 @@
 ---
-layout: default
+<!-- layout: default -->
 ---
 
-<div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
 
 <!--
 
@@ -36,7 +18,7 @@ SUPER IMPORTANT: LOADS THE BLOG POSTS
 
 -->
 
-<!-- 
+
 
 <html>
 <head>
@@ -64,7 +46,44 @@ SUPER IMPORTANT: LOADS THE BLOG POSTS
 
   <div>
 
+    <!-- ################################# -->
+
+<!-- 
+    <div class="home">
+
+      <h1 class="page-heading">Posts</h1>
+
+      <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+    </div> -->
+
+    <!-- ################################## -->
+
     <div class="post">
+
+      <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+        {% endfor %}
+      </ul>
       <p>
         <strong>19:52</strong>
         <p>This blog post is in response to Gerard Oneill's post, found here: https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d</p>
@@ -105,5 +124,3 @@ SUPER IMPORTANT: LOADS THE BLOG POSTS
       </p>
     </div>
 
-
- -->
