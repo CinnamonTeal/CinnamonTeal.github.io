@@ -1,0 +1,25 @@
+body {
+  margin: 100px auto;
+  width:500px;
+  font-family:Courier;
+  font-size:15pt;
+}
+#footer {
+  margin-top: 100px;
+}
+h1 {
+  font-size:50px;
+  font-family:Courier;
+  font-weight:normal;
+  color:#00b1e5;
+  margin: 0 0 0 -65px;
+}
+p {
+  line-height:200%;
+}
+h2,h3,h4,h5,h6,h7 {
+  text-transform:uppercase;
+  margin-top: 2em;
+}
+.post {
+}
