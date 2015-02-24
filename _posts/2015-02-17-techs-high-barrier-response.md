@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Response to Gerard Oneill's Post on Tech's High Barrier to Entry for the Underpriveleged
-published: false
 tags:
 ---
 

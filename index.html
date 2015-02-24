@@ -1,84 +1,40 @@
 ---
-<!-- layout: default -->
+layout: default
 ---
-
-
-
-<!--
-
-SUPER IMPORTANT: LOADS THE BLOG POSTS
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span></li>
-    {% endfor %}
-  </ul>
-</div>
-
--->
-
-
 
 <html>
 <head>
   <title>Keith Van Emmeler</title>
-  <link type="text/css" rel="stylesheet" href="styles.css" />
+  <link type="text/css" rel="stylesheet" href="css/styles.css" />
 </head>
+
 <body>
+  <h1><a href="http://cinnamonteal.github.io">//keith_van_emmeler</a></h1>
 
-  <h1>//keith_van_emmeler</h1>
+<br></br>
 
-  <h3><a name="links"></a>Links</h3>
-
-  <p>
-    <a href="http://cinnamonteal.github.io">Home</a> &middot;
-    <a href="http://cinnamonteal.github.io">Archive</a> &middot;
-    <a href="http://fellows.flatironschool.com/students/keith_embler.html">About</a> &middot;  
+    <!--   <h3><a name="links"></a>Links</h3>
+     -->
+    
+    <!-- <a href="http://cinnamonteal.github.io">Archive</a> &middot; -->
+    <!-- <a href="http://cinnamonteal.github.io">Home</a> &middot; -->
+    <a href="http://fellows.flatironschool.com/students/keith_van_emmeler.html">About</a> &middot;  
     <a href="https://github.com/CinnamonTeal/">GitHub</a> &middot;
     <a href="">Random</a> &middot;
     <a href="">Danger</a>
 
-
-  </p>
-
-  <h3><a name="journal-2015-02-17"></a>February 17, 2015</h3>
-
   <div>
 
-    <!-- ################################# -->
-
-<!-- 
-    <div class="home">
-
-      <h1 class="page-heading">Posts</h1>
-
-      <ul class="post-list">
-        {% for post in site.posts %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-        {% endfor %}
-      </ul>
-
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-    </div> -->
-
-    <!-- ################################## -->
 
     <div class="post">
 
       <ul class="post-list">
         {% for post in site.posts %}
         <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          
 
           <h2>
+          <span class="post-meta">{{ post.date | date: "%t %b %-d, %Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
         </li>
@@ -89,8 +45,8 @@ SUPER IMPORTANT: LOADS THE BLOG POSTS
 
     <div class="post">
       <p>
-        <strong>18:31</strong>
-        Finally rolling my own blog.
+        <span style="color:#00b1e5">2.17.2015 18:31
+        Finally rolling my own blog.</span>
       </p>
     </div>
 

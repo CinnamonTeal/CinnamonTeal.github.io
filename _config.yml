@@ -4,17 +4,17 @@ defaults:
       path: "_posts" # try an empty string to indicate all files in the project if this layout doesn't catch.
       type: "posts"
     values:
-      layout: "post_layout"
+      layout: "post"
   -
     scope:
       path: ""
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
-      layout: "default" # overrides previous default layout
+      layout: "page" # overrides previous default layout
       author: "" # this has something to do with setting the pages.author liquid variable
   -
     scope:
       path: ""
       type: "drafts"
     values:
-      layout: "post_layout"
+      layout: "post"
