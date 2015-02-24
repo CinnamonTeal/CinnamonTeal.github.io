@@ -2,7 +2,6 @@
 layout: post
 title:  "Types of Type"
 date:   2015-02-23 07:07:56
-categories: jekyll update
 ---
 
 Beginning programmers typically spend a lot of time trying to figure out what their first language should be - probably too much time. It makes sense, if you are about to start down a very long road, you at least want to be sure it's going to lead you in the direction you want to travel. Of course when you are a true beginner you don't know shit, and a lot of the various pros and cons for each language were way over my head. Now that I have been eating, drinking, breathing, shitting, and dreaming about Ruby 24/7 for the past 5 weeks at the Flatiron school, I am at least clueful enough to appreciate some of the finer differences between languages. But I remember reading about various programming languages, and coming across terms such as  "strongly typed" or "weakly typed." Also confusing is the difference between "static typing" and "dynamic typing." So, okay... wtf does that mean? 
@@ -33,7 +32,7 @@ Here's the breakdown:
   a = 99
   b = " Luftballons"
   a + b
-    => TypeError: String can't be coerced into Fixnum
+    => "TypeError: String can't be coerced into Fixnum"
 {% endhighlight %}
   
   Notice the quotes around "99" in the first example. Because that 99 is a string (not a Fixnum), it will play nicely with other strings. But the 99 in the second example is not a string, it's a Fixnum, which lets you do math and other numbery things with it, but not scrambling, concatenating, sorting or other wordy, 'stringy' things with it. 
@@ -82,4 +81,4 @@ Here's the breakdown:
 
   Now you know. 
 
-  
+
