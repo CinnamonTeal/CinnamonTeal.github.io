@@ -20,19 +20,19 @@ Here's the breakdown:
 
 
 {% highlight Ruby %}
-  a = "99"
-  b = " Luftballons"
-  a + b
-    =>  "99 Luftballons"
+a = "99"
+b = " Luftballons"
+a + b
+  =>  "99 Luftballons"
 {% endhighlight %}
 
     but Ruby will shit the bed if you try this: 
 
 {% highlight Ruby %}
-  a = 99
-  b = " Luftballons"
-  a + b
-    => "TypeError: String can't be coerced into Fixnum"
+a = 99
+b = " Luftballons"
+a + b
+  => "TypeError: String can't be coerced into Fixnum"
 {% endhighlight %}
   
   Notice the quotes around "99" in the first example. Because that 99 is a string (not a Fixnum), it will play nicely with other strings. But the 99 in the second example is not a string, it's a Fixnum, which lets you do math and other numbery things with it, but not scrambling, concatenating, sorting or other wordy, 'stringy' things with it. 
@@ -48,14 +48,14 @@ Here's the breakdown:
   In a statically typed programming language (such as Java, C and C++), variables do not need to be defined before they are used, but they do need to be initialized (or declared). Checkout this C++ code:
 
   {% highlight c++ %}
-    int counter
+int counter
 
-    counter = 1
-    while (counter <= 10)
-      {
-      cout << "do something"
-      counter ++
-      }
+counter = 1
+while (counter <= 10)
+  {
+  cout << "do something"
+  counter ++
+  }
   {% endhighlight %}
 
   In this example, the variable "counter" is declared (or initialized) without a value, but with a data type (int). Once counter is an int, it will forever be an int. That is static typing. 
