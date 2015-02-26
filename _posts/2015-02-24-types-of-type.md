@@ -65,14 +65,14 @@ Here's the breakdown:
   In a dynamically typed language however (such as Ruby or Python), you can initiate variables and set their values at the same time, on the fly. Later if you change your mind, or you want to recycle that variable so you can perform different types of operations on it, changing the variable type is supported. Ruby has a set of built in methods that make this easy. Observe:
 
   {% highlight ruby %}
-    x = 10
-    x.to_s
-      => "10"
+x = 10
+x.to_s
+  => "10"
 
-    sentence = "this is a string"
-    sentence.split(' ')
-      => ["this", "is", "a", "string"] 
-      # actually now it's an array
+sentence = "this is a string"
+sentence.split(' ')
+  => ["this", "is", "a", "string"] 
+  # actually now it's an array of strings
 
   {% endhighlight %}
 
