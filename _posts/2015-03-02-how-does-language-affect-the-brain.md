@@ -7,13 +7,13 @@ This post is for an assignment at the Flatiron School, in which we were asked to
 
 1. How does language affect the brain?
   
-  Probably in more ways than we are yet aware of. An analogy that immediately comes to mind is that language is a tool of expression, and like any other tool, it lets us do certain things better, but only those certain things. For example, with a drill we can more easily make precise holes, but there isn't much more we can use a drill for. The podcast beautifully articulated concepts that weren't new to me, but I also wouldn't have been as capable of clearly expressing. Especially the part about the man who was born deaf, and didn't have language. His moment of epiphany (when he realized that "everything has a name") blew my mind. 
+  Probably in more ways than we are yet aware of. An analogy that immediately comes to mind is that language is a tool of expression, and like any other tool, it lets us do certain things better, but only those certain things. For example, with a drill we can more easily make precise holes, but there isn't much more we can use a drill for. The podcast beautifully articulated concepts that weren't new to me, but that I also couldn't as precisely express. Trying to imagine what it must have been like to be the man who was born deaf, and didn't have language was an especially illuminating exercise for me. His moment of epiphany (when he realized that "everything has a name") blew my mind.
 
-  I feel that, having newly acquired a foreign language, I may be relatively sensitive to these ideas as of late. Obviously we (by 'we' I mean myself and my fellow classmates at Flatiron) are sensitive to these ideas as learners of several new programming languages. 
+  One of the comments in the podcast really resonated with me: "…as you move through the world, if you're sensitive at all, and you're observant, you're going to get filled up with all these things that you have to express, but can't, until you get those words, and boom, the door opens." I feel that, having newly acquired a foreign language, I am more sensitive to these ideas as of late. Obviously we (by 'we' I mean myself and my fellow classmates at Flatiron) are sensitive to these ideas as learners of several new programming languages. There is so much we want to be able to 'express,' to 'build,' to 'do,' but we just can't until we have the 'methods,' or the 'words.'
 
   Bret Victor caught my attention with a particular turn of phrase in his talk. As he was discussing the ways technology can limit us to only a few of our multiple modes of understanding, he mentioned that "...regardless of what you are trying to express, you express it in symbols, because that's what the interface encourages you to do." But it isn't simply what the interface encourages - it's what the interface limits you to. 
 
-  Because language is an interface that allows us to express, to externalize our thoughts, the thoughts that we are able to express are limited to the features of our language.
+  Because language is an interface that allows us to express - to externalize our thoughts, the thoughts that we are able to express are limited to the features of our language.
 
 2. If language changes what our brain is capable of thinking, how might learning to program change how we think?
 
