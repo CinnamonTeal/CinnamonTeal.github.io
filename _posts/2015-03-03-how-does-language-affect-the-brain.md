@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Language and Thought
+title: How Does Language Affect the Brain?
 ---
 
 This post is for an assignment at the Flatiron School, in which we were asked to listen to a podcast(link), watch a video(link), and write a response to the following questions:
