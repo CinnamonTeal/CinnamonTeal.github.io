@@ -3,11 +3,14 @@ layout: post
 title: Change Your .bash_profile, Change Your Life
 ---
 
+![Alt boring](/../img/bash_pics/bash_banner.png)
+
+
 One of the the most helpful tools that I have are my tricked out .bash_profile and .bash_prompt. It really makes working in the shell a LOT easier (and more fun), and if you are still using the default terminal prompt, I invite you to upgrade. TL;DR, scroll to the bottom for the how-to guides.
 
 As a beginning web developer, using the command line (aka terminal, aka bash) can be disorienting, more time consuming than it needs to be, and rough on the eyes. With a simple white background and black text, it can be difficult to quickly find the information you need when it all looks the same.
 
-![Alt boring](img/change\ bash\ change\ life/boring.png)
+![Alt boring](/../img/bash_pics/boring.png)
 
 Better would be to have a different colored background, with fonts in various colors to help us parse the different aspects of what we are looking at. The way to achieve this is to customize the file that bash uses to load your settings and preferences, which is called .bash_profile. The ‘.’ before the filename indicates that it is a hidden system file (in OSX), so if you don’t see it in your “home” directory (aka “~”), then copy and paste the following into Terminal:
 

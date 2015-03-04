@@ -29,8 +29,11 @@ layout: default
         {{ content }}
 
                 <hr>
-
+<!-- the non-footer at the bottom of posts, (home, previous post, and next post links) -->
                 <ul class="pager">
+                    <li>
+                      <a href="/../index.html">Home</a>
+                    </li>
                     {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
