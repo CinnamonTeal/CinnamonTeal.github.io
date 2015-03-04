@@ -4,6 +4,8 @@ title:  "Types of Type"
 date:   2015-02-23 07:07:56
 ---
 
+**2.23.15** 1:07
+
 Beginning programmers typically spend a lot of time trying to figure out what their first language should be - probably too much time. It makes sense, if you are about to start down a very long road, you at least want to be sure it's going to lead you in the direction you want to travel. Of course when you are a true beginner you don't know shit, and a lot of the various pros and cons for each language were way over my head. Now that I have been eating, drinking, breathing, shitting, and dreaming about Ruby 24/7 for the past 5 weeks at the Flatiron school, I am at least clueful enough to appreciate some of the finer differences between languages. But I remember reading about various programming languages, and coming across terms such as  "strongly typed" or "weakly typed." Also confusing is the difference between "static typing" and "dynamic typing." So, okay... wtf does that mean? 
 
 Go ahead and laugh, but at one time I actually wondered if it had something to do with actually typing, on a keyboard. Like... did "strong typing" mean pressing the keys harder or something? (Why the fuck would they name it that?)

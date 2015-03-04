@@ -3,6 +3,7 @@ layout: post
 title: Finally Rolling My Own Blog
 ---
 
+**2.16.15** 19:01
 
 Holy shit what a pain in the ass...
 

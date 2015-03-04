@@ -3,7 +3,7 @@ layout: post
 title: How to Become Batman&#58; A response to NPR’s Invisibilia podcast
 ---
 
-![Alt boring](/../img/Arkhamcity-Batman-Gotham.jpg)
+![Alt batman](/../img/Arkhamcity-Batman-Gotham.jpg)
 
 
 For our next assignment at the Flatiron school, we are apparently going to be uprooting some common assumptions about self-limiting beliefs. First we will be answering some questions, and then listening NPR’s Invisibilia Podcast. My answers are italicized.

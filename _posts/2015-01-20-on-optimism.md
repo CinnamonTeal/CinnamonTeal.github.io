@@ -3,7 +3,9 @@ layout: post
 title: On Optimism, a response to Mr. R.S. Braithwaite
 ---
 
-Recently at a meeting for couch-surfers in Berlin, I asked a new acquaintance whether he thought ‘the glass’ was half empty or half full. We’ve all heard this question, and we all know where it leads. What it’s really asking is, “are you an optimist or a pessimist?” There are only two obvious answers, but to my bemusement he replied “it depends on whether you are drinking or pouring.”
+![Alt optimism](/../img/optimism.jpg)
+
+Recently at a couch-surfing meetup in Berlin, I asked a fellow surfer whether he thought ‘the glass’ was half empty or half full. We’ve all heard this question, and we all know where it leads. What it’s really asking is, “are you an optimist or a pessimist?” There are only two obvious answers, but to my bemusement he replied “it depends on whether you are drinking or pouring.”
 
 I pondered that for a moment.
 
