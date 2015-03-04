@@ -10,3 +10,9 @@ _sass/_base.scss is loaded by a function on line 9 in _includes/head.html,  whic
 current _layouts/post.html is a copy of the clean-blog post layout, although it seems not to be loading yet. 
 
 clean-blog resources located in CinnamonTeal.github.io/_theme_packages/startbootstrap-clean-blog-jekyll-gh-pages
+
+
+
+How to use markdown:
+
+This is a [link](http://example.com/).
