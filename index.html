@@ -12,17 +12,17 @@ layout: default
 <body>
   <h1><a href="http://cinnamonteal.github.io">//keith_van_emmeler</a></h1>
 
-<br></br>
-
+<!-- <br> -->
     <!--   <h3><a name="links"></a>Links</h3>
      -->
     
     <!-- <a href="http://cinnamonteal.github.io">Archive</a> &middot; -->
     <!-- <a href="http://cinnamonteal.github.io">Home</a> &middot; -->
-    <a href="http://fellows.flatironschool.com/students/keith_van_emmeler.html">About</a> &middot;  
-    <a href="https://github.com/CinnamonTeal/">GitHub</a> &middot;
-    <a href="">Random</a> &middot;
-    <a href="">Danger</a>
+    <a href="http://fellows.flatironschool.com/students/keith_van_emmeler.html">about</a> <span style="color:#00b1e5;">&laquo;</span>  
+    <a href="https://github.com/CinnamonTeal/">gitHub</a> <span style="color:#00b1e5;">&laquo;</span>
+    <a href="">random</a> <span style="color:#00b1e5;">&laquo;</span>
+    <a href="">danger</a>
+<br>
 
   <div>
 
@@ -31,14 +31,12 @@ layout: default
 
       <ul class="post-list">
         {% for post in site.posts %}
-        <li>
-          
-
+        <!-- <li> -->
           <h2>
           <span class="post-meta">{{ post.date | date: "%t %b %-d, %Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
-        </li>
+        <!-- </li> -->
         {% endfor %}
       </ul>
 
