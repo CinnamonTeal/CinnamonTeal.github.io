@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Optimism, a response to Mr. R.S. Braithwaite
+title: On Optimism, a Response to Mr. R.S. Braithwaite
 ---
 
 ![Alt optimism](/../img/optimism.jpg)
