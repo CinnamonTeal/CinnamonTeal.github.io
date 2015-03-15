@@ -3,6 +3,8 @@ layout: post
 title: Struct Your Stuff
 ---
 
+<!-- add info about openStruct -->
+
 **3.9.15** 22:29
 
 <!-- - blog - about Structs in ruby (what they are, how they work, how to use them, why they're awesome) -->
