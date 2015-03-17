@@ -9,8 +9,7 @@ title: Much Binary! Very Hex! So CS! Wow!
 I want to talk about number systems. 
 
 How do we get from code like ruby, to binary (1's and 0's), and why is *that* what the machine can understand? When we think of numbers, we usually think in the decimal system.
-Decimal as in "deci-", meaning ten. This is why it is also called "base 10." We count from 0-10, and then 
-the numeral characters repeat: 10, 11, 12...22...32...132... every time we get another ten. 
+Decimal as in "deci-", meaning ten. This is why it is also called "base 10" - there are only ten characters we can use (0-9). We count from 0-9, and then the numeral characters repeat: 10, 11, 12...22...32...132... every time we get another ten. 
 
 But why is this the number system we use? I actually don't know, but if I wanted to bullshit you I'd probably make something up about humans having 10 fingers... (hey, that might actually be why)! 
 
