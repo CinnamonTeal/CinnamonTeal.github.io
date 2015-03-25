@@ -7,28 +7,28 @@ body {
 
 a:hover, a:visited, a:link, a:active
 {
-    color: #00b1e5;
+    color: #63C4D2;
     text-decoration: none;
 }
 /* unvisited link */
 /*a:link {
-    color: #00b1e5;
+    color: #63C4D2;
 }*/
 
 /* visited link */
 /*a:visited {
-    color: #00b1e5;
+    color: #63C4D2;
 }*/
 
 /* mouse over link */ /* I don't know why the text becomes underlined on mouseover... how is jekyll interacting with this? */
 /*a:hover {
     text-decoration: none;
-    color: #00b1e5;
+    color: #63C4D2;
 }*/
 
 /* selected link */
 /*a:active {
-    color: #00b1e5;
+    color: #63C4D2;
 }*/
 
 #footer {
@@ -38,7 +38,7 @@ h1 {
   font-size:65px;
   font-family:Courier;
   font-weight:normal;
-  color:#00b1e5;
+  color:#63C4D2;
   margin: 0 0 0 -85px;
 }
 p {
