@@ -3,6 +3,8 @@ layout: post
 title: A Meditation on Identity
 ---
 
+![Alt identity](/../img/homunculus.jpg)
+
 **4.4.15** 13:19
 
 I've wanted to be a programmer for a very long time. I've also always hated the idea I am merely what I do. I consider myself a generalist, or a jack of all trades. I am curious about everything. I don't want to specialize - specialization is for ants. Who am I? What am I? I feel like I gain new insights into the answers to these questions every day. The answer also changes depending on who I am talking to. That's natural though, and true for all of us. Which is what makes social media so weird... this weird public persistence of fragmented interpretations of ourselves...
