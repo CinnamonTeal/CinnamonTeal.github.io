@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Nice Rack
+title: Rack Middleware
 ---
 
-**3.17.15** time?
+**3.17.15** 
 
 <!-- middleware -->
 
