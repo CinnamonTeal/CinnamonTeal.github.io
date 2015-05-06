@@ -6,6 +6,8 @@ title: Much Binary! Very Hex! So CS! Wow!
 
 **3.11.15** 19:11
 
+Something that my classmates often wonder or ask about, but that we never really get to cover in a dev bootcamp, is how does code actually talk to the metal of the computer? How does a computer understand code? Because I benefitted from a few CS courses while I was in University, I want to share what I learned with the rest of my classmates:
+
 I want to talk about number systems. 
 
 How do we get from code like ruby, to binary (1's and 0's), and why is *that* what the machine can understand? When we think of numbers, we usually think in the decimal system.
