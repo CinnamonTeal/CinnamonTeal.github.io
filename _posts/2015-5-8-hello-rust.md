@@ -21,9 +21,23 @@ fn main() {
 
 and then run it in terminal:
 
-```
+
+{% highlight Rust %}
 $ rustc main.rs
 $ ./main # or main.exe on Windows
 Hello, world!
+{% endhighlight %}
 
-```
+Success! Let’s go over what just happened in detail.
+
+{% highlight Rust %}
+fn main() {
+
+}
+{% endhighlight %}
+
+These lines define a function in Rust. The main function is special: it's the beginning of every Rust program. The first line says "I’m declaring a function named main which takes no arguments and returns nothing." If there were arguments, they would go inside the parentheses (( and )), and because we aren’t returning anything from this function, we can omit the return type entirely. We’ll get to it later.
+
+You’ll also note that the function is wrapped in curly braces ({ and }). Rust requires these around all function bodies. It is also considered good style to put the opening curly brace on the same line as the function declaration, with one space in between.
+
+Next up is this line:
